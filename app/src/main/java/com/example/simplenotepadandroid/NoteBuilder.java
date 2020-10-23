@@ -1,3 +1,5 @@
+package com.example.simplenotepadandroid;
+
 public class NoteBuilder {
     private String title, content;
 
