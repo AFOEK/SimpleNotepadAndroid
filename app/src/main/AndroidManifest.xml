@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SimpleNotepadAndroid">
         <activity
+            android:name=".NoteSelect"
+            android:label="@string/title_activity_note_select"
+            android:theme="@style/Theme.SimpleNotepadAndroid.NoActionBar"></activity>
+        <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.SimpleNotepadAndroid.NoActionBar">
